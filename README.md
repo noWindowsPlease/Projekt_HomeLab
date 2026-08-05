@@ -37,4 +37,4 @@
 ## Kontakt
 
 - GitHub: noWindowsPlease
-- emIl:  @proton.me
+- eMail:  @proton.me
