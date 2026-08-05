@@ -1,8 +1,8 @@
-# Mein Homelab – Der Weg in die IT-Selbstständigkeit
+# Mein Homelab – Der Weg in die IT-Sicherheit
 
 ## Über mich
 
-- Auszubildender Fachinformatiker für Systemintegration (voraussichtlicher Abschluss: 2027)
+- Auszubildender Fachinformatiker für Systemintegration (voraussichtlicher Abschluss: 2027), Abschluesse: IT-Systemelektroniker und Tischler sowie Fitnesstrainer/B-Lizenz
 - Spezialisierung: Netzwerke, IT-Sicherheit, Cloud
 - Ziel:    Beruflich in die IT-Sicherheit starten
 - Plan-B:  Selbstständige IT-Beratung für kleine Unternehmen (KMU)
